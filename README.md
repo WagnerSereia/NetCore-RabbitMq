@@ -4,6 +4,13 @@ Projeto que demonstra a utilização dos tipos de fila e exchange do RabbitMq
 ------------------------------------------
 Orientações de uso do projeto RabbitMq
 ------------------------------------------
+Para rodas os projetos é necessário uma instancia do RabbitMQ rodando, para esse projeto utilizei uma imagem do docker e caso queira utilizar a imagem, no diretorio raiz do projeto existe o docker-compose utilizado, para rodar executar o comando a seguir:
+
+No windows terminal
+diretorioProjeto>docker-compose -f docker-compose.yml up
+
+Esse comando baixara (caso não tenha) a imagem do Rabbit e subira um container com os parametros configurados do dockerFile.
+
 Para rodar os projetos a seguir, clicar com o botão direito em cima da solução --> "set StartUp Projects.." e indicar os projetos mencionados em cada uma das opções
 
 1)Queues do RabbitMq
