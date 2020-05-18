@@ -1,9 +1,10 @@
 # NetCore-RabbitMq
 Projeto que demonstra a utilização dos tipos de fila e exchange do RabbitMq
 
-########################################################
+------------------------------------------
 Orientações de uso do projeto RabbitMq
-########################################################
+------------------------------------------
+Para rodar os projetos a seguir, clicar com o botão direito em cima da solução --> "set StartUp Projects.." e indicar os projetos mencionados em cada uma das opções
 
 1)Queues do RabbitMq
 Utilizar os projetos Producer, Consumer1 e Consumer2
