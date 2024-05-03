@@ -23,3 +23,5 @@ Utilizar os projetos Pub, Sub1 e Sub2
 Utilizar os projetos PubRoutingKey, SubRoutingKey1 e SubRoutingKey2
 
 4)Topic, onde as mensagens são encaminhadas com uma routingKey e somente os subscriber com a mesma routingKey configurada receberao
+## Parceiro
+Esse é um desenvolvimento de pesquisa e parceria com [ConnectionPharma](https://cpharma.com.br)
